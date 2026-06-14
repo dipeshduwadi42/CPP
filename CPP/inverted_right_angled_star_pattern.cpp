@@ -7,7 +7,7 @@ int main()
 	{
 		for(j=5;j>=i;j--)
 		{
-			cout<<" *";
+			cout<<" *";//to print stars
 		}
 		cout<<endl;
 	}
