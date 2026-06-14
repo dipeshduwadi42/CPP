@@ -7,11 +7,11 @@ int main()
 	{
 		for(k=5;k>=i;k--)
 		{
-			cout<<" ";
+			cout<<" ";//to give spaces
 		}
 		for(j=1;j<=i;j++)
 		{
-			cout<<" *";
+			cout<<" *";//to print star
 		}
 			cout<<endl;
 	}
