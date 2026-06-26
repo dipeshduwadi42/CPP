@@ -2,7 +2,7 @@
 using namespace std;
 int main()
 {
-	const float pi=3.14;
+	const float pi=3.14;//define constant value
 	float radius;
 	float area;
 	cout<<"Enter the radius";
